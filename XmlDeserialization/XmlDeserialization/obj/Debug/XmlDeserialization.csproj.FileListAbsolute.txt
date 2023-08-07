@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\Day21\Assignment24\XmlDeserialization\XmlDeserialization\bin\Debug\XmlDeserialization.exe.config
+C:\Users\moham\source\repos\Day21\Assignment24\XmlDeserialization\XmlDeserialization\bin\Debug\XmlDeserialization.exe
+C:\Users\moham\source\repos\Day21\Assignment24\XmlDeserialization\XmlDeserialization\bin\Debug\XmlDeserialization.pdb
+C:\Users\moham\source\repos\Day21\Assignment24\XmlDeserialization\XmlDeserialization\bin\Debug\Employee.dll
+C:\Users\moham\source\repos\Day21\Assignment24\XmlDeserialization\XmlDeserialization\bin\Debug\Employee.pdb
+C:\Users\moham\source\repos\Day21\Assignment24\XmlDeserialization\XmlDeserialization\obj\Debug\XmlDeserialization.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Day21\Assignment24\XmlDeserialization\XmlDeserialization\obj\Debug\XmlDeserialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Day21\Assignment24\XmlDeserialization\XmlDeserialization\obj\Debug\XmlDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Day21\Assignment24\XmlDeserialization\XmlDeserialization\obj\Debug\XmlDeserialization.csproj.CopyComplete
+C:\Users\moham\source\repos\Day21\Assignment24\XmlDeserialization\XmlDeserialization\obj\Debug\XmlDeserialization.exe
+C:\Users\moham\source\repos\Day21\Assignment24\XmlDeserialization\XmlDeserialization\obj\Debug\XmlDeserialization.pdb

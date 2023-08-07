@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\Day21\Assignment24\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+C:\Users\moham\source\repos\Day21\Assignment24\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe
+C:\Users\moham\source\repos\Day21\Assignment24\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.pdb
+C:\Users\moham\source\repos\Day21\Assignment24\BinarySerialization\BinarySerialization\bin\Debug\Employee.dll
+C:\Users\moham\source\repos\Day21\Assignment24\BinarySerialization\BinarySerialization\bin\Debug\Employee.pdb
+C:\Users\moham\source\repos\Day21\Assignment24\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Day21\Assignment24\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Day21\Assignment24\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Day21\Assignment24\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csproj.CopyComplete
+C:\Users\moham\source\repos\Day21\Assignment24\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.exe
+C:\Users\moham\source\repos\Day21\Assignment24\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.pdb

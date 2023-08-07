@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\Day21\Assignment24\XmlSerialization\XmlSerialization\bin\Debug\XmlSerialization.exe.config
+C:\Users\moham\source\repos\Day21\Assignment24\XmlSerialization\XmlSerialization\bin\Debug\XmlSerialization.exe
+C:\Users\moham\source\repos\Day21\Assignment24\XmlSerialization\XmlSerialization\bin\Debug\XmlSerialization.pdb
+C:\Users\moham\source\repos\Day21\Assignment24\XmlSerialization\XmlSerialization\bin\Debug\Employee.dll
+C:\Users\moham\source\repos\Day21\Assignment24\XmlSerialization\XmlSerialization\bin\Debug\Employee.pdb
+C:\Users\moham\source\repos\Day21\Assignment24\XmlSerialization\XmlSerialization\obj\Debug\XmlSerialization.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Day21\Assignment24\XmlSerialization\XmlSerialization\obj\Debug\XmlSerialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Day21\Assignment24\XmlSerialization\XmlSerialization\obj\Debug\XmlSerialization.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Day21\Assignment24\XmlSerialization\XmlSerialization\obj\Debug\XmlSerialization.csproj.CopyComplete
+C:\Users\moham\source\repos\Day21\Assignment24\XmlSerialization\XmlSerialization\obj\Debug\XmlSerialization.exe
+C:\Users\moham\source\repos\Day21\Assignment24\XmlSerialization\XmlSerialization\obj\Debug\XmlSerialization.pdb

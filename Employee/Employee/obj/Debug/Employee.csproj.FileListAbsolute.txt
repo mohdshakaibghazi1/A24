@@ -1,0 +1,6 @@
+C:\Users\moham\source\repos\Day21\Assignment24\Employee\Employee\bin\Debug\Employee.dll
+C:\Users\moham\source\repos\Day21\Assignment24\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\moham\source\repos\Day21\Assignment24\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Day21\Assignment24\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Day21\Assignment24\Employee\Employee\obj\Debug\Employee.dll
+C:\Users\moham\source\repos\Day21\Assignment24\Employee\Employee\obj\Debug\Employee.pdb
